@@ -14,6 +14,12 @@ rgs = {
 
   }
 
+  rg3 = {
+
+    name     = "lakshay_rg2_dev"
+    location = "eastus"
+
+  }
 }
 
 vnets = {
