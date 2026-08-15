@@ -20,7 +20,21 @@ rgs = {
     location = "eastus"
 
   }
+   rg4  = {
+
+    name     = "lakshay_rg2_dev"
+    location = "eastus"
+
+
+  }
+  rg6  = {
+
+    name     = "lakshay_rg2_dev"
+    location = "eastus"
+
+  }
 }
+
 
 vnets = {
 
